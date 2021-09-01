@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522284497833",
+    "project_id": "the-attic-9abc1",
+    "storage_bucket": "the-attic-9abc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522284497833:android:096755c34171e979c122b8",
+        "android_client_info": {
+          "package_name": "com.kalvin.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522284497833-hldmth19mq3hqsm09nshphj752b26n61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtJrbeWuhqBs_X-NSglUZaQzBCzPXRIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522284497833-hldmth19mq3hqsm09nshphj752b26n61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
